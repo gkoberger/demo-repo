@@ -1,47 +1,48 @@
 ---
-title: Welcome to Test Test
+title: Bienvenido a Test Test
+excerpt: Página de bienvenida
 hidden: false
 ---
-asdfasdf
+Comienza tu viaje con nuestra plataforma. Encuentra todo lo que necesitas para empezar, explorar nuestras APIs y aprovechar las funciones impulsadas por IA.
 
 <Cards>
   {/* Edit the props below to customize these components */}
 
-  <Card title="Quick Start" href="#" icon="fa-duotone fa-rocket-launch">Learn how to get started with our product</Card>
+  <Card title="Inicio Rápido" href="#" icon="fa-duotone fa-rocket-launch">Aprende cómo empezar con nuestro producto</Card>
 
-  <Card title="API Reference" href="#" icon="fa-duotone fa-code-simple">Explore endpoints and build your integration</Card>
+  <Card title="Referencia de API" href="#" icon="fa-duotone fa-code-simple">Explora los endpoints y construye tu integración</Card>
 
-  <Card title="Build with AI" href="#" icon="fa-duotone fa-sparkles">Use LLM features to automate your workflow</Card>
+  <Card title="Construye con IA" href="#" icon="fa-duotone fa-sparkles">Usa funciones LLM para automatizar tu flujo de trabajo</Card>
 </Cards>
 
 <br />
 
-## Recent Releases
+## Lanzamientos Recientes
 
 <Cards>
-  <Card isNew kind="tile" title="v2.0 Migration" href="#" icon="fa-duotone fa-magnifying-glass">Everything you need to upgrade</Card>
+  <Card isNew kind="tile" title="Migración v2.0" href="#" icon="fa-duotone fa-magnifying-glass">Todo lo que necesitas para actualizar</Card>
 
-  <Card kind="tile" title="Webhooks" href="#" icon="fa-duotone fa-bullhorn">Real-time events are now available</Card>
+  <Card kind="tile" title="Webhooks" href="#" icon="fa-duotone fa-bullhorn">Los eventos en tiempo real ya están disponibles</Card>
 
-  <Card kind="tile" title="Android SDK" href="#" icon="fa-duotone fa-robot">Our native Android library is out of beta</Card>
+  <Card kind="tile" title="SDK de Android" href="#" icon="fa-duotone fa-robot">Nuestra biblioteca nativa de Android salió de beta</Card>
 </Cards>
 
 <br />
 
-## The Basics
+## Lo Básico
 
 <Cards>
-  <Card kind="tile" title="Customize" href="#" icon="fa-duotone fa-brush">Style the widget to match your brand</Card>
+  <Card kind="tile" title="Personalizar" href="#" icon="fa-duotone fa-brush">Diseña el widget para que coincida con tu marca</Card>
 
-  <Card kind="tile" title="Integrations" href="#" icon="fa-duotone fa-arrow-down-left-and-arrow-up-right-to-center">Connect with third-party services</Card>
+  <Card kind="tile" title="Integraciones" href="#" icon="fa-duotone fa-arrow-down-left-and-arrow-up-right-to-center">Conéctate con servicios de terceros</Card>
 
-  <Card kind="tile" title="CLI" href="#" icon="fa-duotone fa-terminal">Manage resources from your terminal</Card>
+  <Card kind="tile" title="CLI" href="#" icon="fa-duotone fa-terminal">Administra recursos desde tu terminal</Card>
 
-  <Card kind="tile" title="Security" href="" icon="fa-duotone fa-shield-dog">Learn how we secure your data</Card>
+  <Card kind="tile" title="Seguridad" href="" icon="fa-duotone fa-shield-dog">Aprende cómo aseguramos tus datos</Card>
 
-  <Card kind="tile" title="Common Issues" href="" icon="fa-duotone fa-file-circle-info">Troubleshoot common issues</Card>
+  <Card kind="tile" title="Problemas Comunes" href="" icon="fa-duotone fa-file-circle-info">Soluciona problemas comunes</Card>
 
-  <Card kind="tile" title="Sync" href="#" icon="fa-duotone fa-code-compare">Connect to a storage provider</Card>
+  <Card kind="tile" title="Sincronización" href="#" icon="fa-duotone fa-code-compare">Conéctate a un proveedor de almacenamiento</Card>
 </Cards>
 
 <br />
