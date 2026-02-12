@@ -1,11 +1,9 @@
 ---
-title: Bienvenido a Test Test
+title: Bienvenido a Nuestra Plataforma
 excerpt: Página de bienvenida
 hidden: false
 ---
 Comienza tu viaje con nuestra plataforma. Encuentra todo lo que necesitas para empezar, explorar nuestras APIs y aprovechar las funciones impulsadas por IA.
-
-Test
 
 <Cards>
   {/* Edit the props below to customize these components */}
